@@ -1,0 +1,43 @@
+
+#main{
+
+  background:  #e3e4e8;  /*#d5d7de;*/
+  margin-top: 40px;
+}
+#title{
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3em;
+
+}
+
+#img-div{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+h4{
+  margin-top: 50px;
+  font-size: 22px;
+  text-align: center;
+}
+#tribute-info{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+}
+#cita{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+footer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
